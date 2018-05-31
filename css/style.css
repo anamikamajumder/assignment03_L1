@@ -1,6 +1,6 @@
 .container{
 	width:800px;
-	height:800px;
+	height:650px;
 	margin:auto;
 }
 .header{
@@ -25,13 +25,13 @@
 }
 .left_column{
 	width:20%;
-	height:80%;
+	height:100%;
 	background:#B90000;
 	float:left;
 }
 .right_column{
 	width:80%;
-	height:80%;
+	height:100%;
 	float:right;
 }
 .c1{
