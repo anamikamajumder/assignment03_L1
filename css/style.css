@@ -1,72 +1,72 @@
 .container{
-	width:1200px;
-	height:1000px;
+	width:800px;
+	height:600px;
 	margin:auto;
 }
 .header{
 	width:100%;
-	height:60px;
+	height:10%;
 }
 .header_left{
 	width:20%;
-	height:60px;
+	height:10%;
 	background:#020202;
 	float:left;
 }
 .header_right{
 	width:80%;
-	height:60px;
+	height:10%;
 	background:#925734;
 	float:right;
 }
 .content{
 	width:100%;
-	height:800px;
+	height:80%;
 }
 .left_column{
 	width:20%;
-	height:800px;
+	height:80%;
 	background:#B90000;
 	float:left;
 }
 .right_column{
 	width:80%;
-	height:800px;
+	height:80%;
 	float:right;
 }
 .c1{
 	width:100%;
-	height:200px;
+	height:20%;
 	background:#01A762;
 }
 .c2{
 	width:100%;
-	height:200px;
+	height:20%;
 	background:#00A2FF;
 }
 .c3-2{
 	width:100%;
-	height:400px;
+	height:40%;
 }
 .c3{
 	width:40%;
-	height:400px;
+	height:40%;
 	background:#5548CC;
 	float:left;
 }
 .c4{
 	width:60%;
-	height:400px;
+	height:40%;
 	background:#FE7F0C;
 	float: right;
 }
 .content-bottom{
 	width:100%;
-	height:80px;
+	height:5%;
 }
 .bottom-left{
 	width:50%;
-	height:80px;
+	height:5%;
 	background:#6C6C6C;
 	float:left;
 }
